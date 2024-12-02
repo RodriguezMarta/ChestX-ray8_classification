@@ -67,3 +67,4 @@ class ChestXray8Dataset(Dataset):
 # train_loader = DataLoader(train_dataset, batch_size=32, shuffle=True)
 # for images, labels in train_loader:
 #     print(images.shape, labels.shape)
+
