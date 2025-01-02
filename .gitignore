@@ -15,5 +15,7 @@ ipython_config.py
 data/images
 data/zip_images
 
+results/checkpoint
+
 
 
