@@ -17,4 +17,4 @@ data/zip_images
 data/processed
 
 
-
+*.pth
