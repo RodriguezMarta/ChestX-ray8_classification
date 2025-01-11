@@ -14,6 +14,7 @@ ipython_config.py
 # Data
 data/images
 data/zip_images
+data/processed
 
 
 
