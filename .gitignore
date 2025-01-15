@@ -15,11 +15,7 @@ ipython_config.py
 data/images
 data/zip_images
 data/processed
-data/metadata
-
+data/processed_1
 *.pth
-
-
-
 
 
